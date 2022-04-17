@@ -1,0 +1,1 @@
+import{_ as a,o as n,c as t,F as s,a as e,d as r}from"./app.e3f70655.js";const c={},o=e("h2",{id:"news",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#news","aria-hidden":"true"},"#"),r(" news")],-1),_=e("p",null,"\u4F60\u597D",-1);function d(i,l){return n(),t(s,null,[o,_],64)}var f=a(c,[["render",d],["__file","index.html.vue"]]);export{f as default};
